@@ -2,7 +2,7 @@
 
 ## Product Development, Systems Engineering, SEO and Growth Marketing
 
-I design and build digital systems that connect software engineering, technical SEO, data, automation and commercial strategy. My background spans more than a decade of web development, search and marketing work across in-house, agency, freelance and B2B environments.
+I build digital platforms from the architecture up, combining software engineering, search intelligence, data automation and commercial execution. My perspective is shaped by almost 18 years of professional experience across technology, marketing, business development, financial services and operations, including more than a decade focused on web development, technical SEO and digital growth.
 
 My work begins with the business problem and continues through architecture, implementation, measurement and operational delivery. I have built full-stack applications, distributed crawling systems, decision-support platforms, marketing automation workflows and technical SEO programs. This combination allows me to work across the product lifecycle, from infrastructure and data contracts to the customer journey, acquisition strategy and revenue impact.
 
