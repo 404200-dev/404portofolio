@@ -10,7 +10,7 @@ My work spans search intelligence, distributed crawling, public-infrastructure a
 
 **A 233-capability enterprise SEO operating system that turns technical evidence into prioritized, approval-gated action.**
 
-[Technical case study](https://github.com/404ADMINS/SpideySEO) · [Read-only dashboard showcase](https://spidey-dashboard.vercel.app)
+[Technical case study](https://github.com/404200-dev/SpideySEO)
 
 SPIDEY brings crawl intelligence, search visibility, revenue attribution, AI-citation analysis, technical health, and controlled remediation into one decision-first workspace. Instead of exposing hundreds of disconnected tools, it surfaces the highest-impact work first and preserves evidence, review, and rollback at every step.
 
