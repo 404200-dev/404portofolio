@@ -8,14 +8,14 @@ My work begins with the business problem and continues through architecture, imp
 
 I hold an MBA in Management Information Systems and IT Project Management, alongside a B.A. in Business Administration. My technical work includes Python, Elixir/OTP, JavaScript, TypeScript, SQL, C++, React, Next.js, Phoenix, FastAPI, PostgreSQL, cloud infrastructure, observability and workflow automation. My commercial experience includes SEO, GEO, AEO, demand generation, account-based marketing, paid acquisition, CRM operations and full-funnel performance analysis.
 
-[View résumé](https://github.com/404ADMINS/Ahmad-ElDessouki-Resume) | [GitHub profile](https://github.com/404ADMINS)
+[View résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume) | [GitHub profile](https://github.com/404ADMINS)
 
 ## Selected Work
 
 1. [SPIDEY SEO](https://github.com/404200-dev/SpideySEO)
 2. [Aqua Smart](https://github.com/404ADMINS/aqua-smart)
 3. [CrawlBEAM](https://github.com/404ADMINS/CrawlBeam)
-4. [Professional Résumé](https://github.com/404ADMINS/Ahmad-ElDessouki-Resume)
+4. [Professional Résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume)
 
 ## 01. SPIDEY SEO
 
@@ -89,7 +89,7 @@ The current verification suite covers the Python engine, Elixir control plane an
 
 ### Development, engineering and commercial leadership
 
-[View or download my résumé](https://github.com/404ADMINS/Ahmad-ElDessouki-Resume)
+[View or download my résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume)
 
 My experience combines technical delivery with search, marketing and business operations. Since 2015, I have worked across web development, SEO, automation and digital growth for organizations and clients in Cyprus, Dubai, the United States and international markets.
 
