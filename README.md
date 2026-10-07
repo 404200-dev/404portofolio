@@ -8,7 +8,7 @@ My work begins with the business problem and continues through architecture, imp
 
 I hold an MBA in Management Information Systems and IT Project Management, alongside a B.A. in Business Administration. My technical work includes Python, Elixir/OTP, JavaScript, TypeScript, SQL, C++, React, Next.js, Phoenix, FastAPI, PostgreSQL, cloud infrastructure, observability and workflow automation. My commercial experience includes SEO, GEO, AEO, demand generation, account-based marketing, paid acquisition, CRM operations and full-funnel performance analysis.
 
-[View résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume) | [GitHub profile](https://github.com/404ADMINS)
+[404200.ai](https://404200.ai) | [View résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume) | [GitHub profile](https://github.com/404ADMINS)
 
 ## Selected Work
 
@@ -21,7 +21,7 @@ I hold an MBA in Management Information Systems and IT Project Management, along
 
 ### Enterprise search intelligence and SEO operations
 
-[View the SPIDEY technical case study](https://github.com/404200-dev/SpideySEO)
+[SPIDEY landing page](https://spidey-seo.404200.ai) | [Open the dashboard showcase](https://app.404200.ai) | [View the technical case study](https://github.com/404200-dev/SpideySEO)
 
 SPIDEY is an enterprise SEO operating system built to connect technical evidence with commercial priorities and controlled execution. It brings crawl intelligence, search performance, revenue attribution, AI-search visibility, technical health and remediation workflows into one operating environment.
 
