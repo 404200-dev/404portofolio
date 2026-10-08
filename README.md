@@ -12,8 +12,8 @@ I hold an MBA in Management Information Systems and IT Project Management, along
 
 ## Selected Work
 
-1. [SPIDEY SEO](https://github.com/404200-dev/SpideySEO)
-2. [Aqua Smart](https://github.com/404ADMINS/aqua-smart)
+1. **SPIDEY SEO:** [Landing page](https://spidey-seo.404200.ai) | [Dashboard showcase](https://app.404200.ai) | [Technical case study](https://github.com/404200-dev/SpideySEO)
+2. **Aqua Smart:** [View project](https://github.com/404ADMINS/aqua-smart)
 3. [CrawlBEAM](https://github.com/404ADMINS/CrawlBeam)
 4. [Professional Résumé](https://github.com/404200-dev/Ahmad-ElDessouki-Resume)
 
