@@ -2,7 +2,7 @@
 
 ## Product Development, Systems Engineering, SEO and Growth Marketing
 
-I build digital platforms from the architecture up, combining software engineering, search intelligence, data automation and commercial execution. My perspective is shaped by almost 18 years of professional experience across technology, marketing, business development, financial services and operations, including more than a decade focused on web development, technical SEO and digital growth.
+I build digital platforms from the architecture up, combining software engineering, reverse engineering, search intelligence, data automation and commercial execution. My perspective is shaped by almost 18 years of professional experience across technology, marketing, business development, financial services and operations, including more than a decade focused on web development, technical SEO and digital growth.
 
 My work begins with the business problem and continues through architecture, implementation, measurement and operational delivery. I have built full-stack applications, distributed crawling systems, decision-support platforms, marketing automation workflows and technical SEO programs. This combination allows me to work across the product lifecycle, from infrastructure and data contracts to the customer journey, acquisition strategy and revenue impact.
 
